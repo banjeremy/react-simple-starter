@@ -1,4 +1,4 @@
-# simple-react-starter
+# react-simple-starter
 Bare-bones React setup with Webpack.
 
 ### Install packages:
