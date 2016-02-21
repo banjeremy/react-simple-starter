@@ -1,10 +1,9 @@
 # react-simple-starter
-Bare-bones React setup with Webpack.
+Minimal React setup with Webpack and Babel.
 
 ### Install packages:
 
 ```bash
-npm install -g babel webpack webpack-dev-server
 npm install
 ```
 
