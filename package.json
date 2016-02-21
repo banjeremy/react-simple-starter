@@ -8,7 +8,9 @@
   },
   "main": "index.js",
   "scripts": {
-    "start": "webpack-dev-server --progress"
+    "start": "webpack-dev-server --progress",
+    "build": "NODE_ENV=production webpack --config ./webpack.production.config.js --progress",
+    "clean": "rm -rf ./build"
   },
   "author": "banjeremy",
   "license": "ISC",
